@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmadjihad52
 - 👀 I’m interested in Coding learn
-- 🌱 I’m currently learning Basi Programming
+- 🌱 I’m currently learning Basic Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
