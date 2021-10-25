@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahmadjihad52
 - 👀 I’m interested in Coding learn
 - 🌱 I’m currently learning Basic Programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me ...
 
 <!---
