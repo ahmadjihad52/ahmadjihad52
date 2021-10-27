@@ -2,7 +2,8 @@
 - 👀 I’m interested in : Coding learn
 - 🌱 I’m currently learning Basic Programming
 - 💞️ I’m looking to collaborate on Javascript
-- 📫 How to reach me : Discord ahmadjihad52#9945
+- 📫 How to reach me :
+-             Discord ==> ahmadjihad52#9945
 
 <!--- Ini masuknya comment ya..
 ahmadjihad52/ahmadjihad52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
